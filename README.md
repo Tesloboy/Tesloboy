@@ -4,11 +4,13 @@
 </div>
 
 <div id="socials" align="center"> 
-  <a href="linkedin-url">
+  <a href="https://www.linkedin.com/in/viktor-teslenko-227882253/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a> <a href="twitter-url">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a> <a href="telegram-url">
+</a> 
+  <a href="https://www.instagram.com/viktorteslenko/">
+<img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram"/>
+</a> 
+  <a href="https://t.me/viktor_teslenko">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a> 
 </div>
