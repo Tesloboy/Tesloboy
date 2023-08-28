@@ -12,6 +12,7 @@
 </a>
 <a href="telegram-url">
 <img src=https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+</a>
 </div>
 <!---
 Tesloboy/Tesloboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
