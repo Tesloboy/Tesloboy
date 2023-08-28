@@ -1,4 +1,4 @@
-👋 Hi, I’m **@Tesloboy** and i’m currently learning Swift🐥
+## **Hi there, I’m Viktor**
 
 
 <!---
