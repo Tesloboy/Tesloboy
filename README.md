@@ -4,13 +4,13 @@
 </div>
 
 <a herf="linkedin-url">
-<img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin"/>
+<img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a herf="instagram-url">
-<img src=https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white alt="instagram"/>
+<img src=https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 <a herf="telegram-url">
-<img src=https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white alt="telegram"/>
+<img src=https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
 
 <!---
 Tesloboy/Tesloboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
