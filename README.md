@@ -6,6 +6,12 @@
 <a herf="linkedin-url">
 <img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white>
 
+<a herf="instagram-url">
+<img src=https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white>
+
+<a herf="telegram-url">
+<img src=https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white>
+
 <!---
 Tesloboy/Tesloboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
