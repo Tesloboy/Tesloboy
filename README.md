@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
 <h1>Hi there, I’m Viktor</h1>
 <h3>ios Developer from Voronezh, Russia</h3>
 </div>
@@ -15,11 +19,16 @@
 </a> 
 </div>
 
+<div id="counter" align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Tesloboy&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### About me
-- I'm currently learning **Swift**
-- Know about my experiences [CV](https://viktorteslenko.com/ios-developer)
-- Reach me by [LinkedIn](https://www.linkedin.com/in/viktor-teslenko-227882253/), [email](mailto:viktorteslenko_photo@mail.ru)
-- I speak English
+- :seedling: I'm currently learning **Swift**
+- :clipboard: Know about my experiences [CV](https://viktorteslenko.com/ios-developer)
+- :mailbox: Reach me by [LinkedIn](https://www.linkedin.com/in/viktor-teslenko-227882253/), [email](mailto:viktorteslenko_photo@mail.ru)
+- :earth_americas: I speak English
+
 <!---
 Tesloboy/Tesloboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
