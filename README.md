@@ -20,7 +20,7 @@
 </div>
 
 ### About me
-- :seedling: I continue to explore the world of development with **Swift**
+- :seedling: I'm exploring the world of development with **Swift**
 - :clipboard: Know about my experiences [CV](https://viktorteslenko.com/ios-developer)
 - :mailbox: Reach me by [LinkedIn](https://www.linkedin.com/in/viktor-teslenko-227882253/), [email](mailto:viktorteslenko_photo@mail.ru)
 - :earth_americas: I speak English
