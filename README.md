@@ -22,7 +22,7 @@
 ### About me
 - :seedling: I'm exploring the world of development with **Swift**
 - :clipboard: Know about my experiences [CV](https://viktorteslenko.com/ios-developer)
-- :mailbox: Reach me by [LinkedIn](https://www.linkedin.com/in/viktor-teslenko-227882253/), [email](mailto:viktorteslenko_photo@mail.ru)
+- :mailbox: Reach me by [LinkedIn](https://www.linkedin.com/in/viktor-teslenko-227882253/), [email](mailto:viktorteslenko_photo@mail.ru) ,[сетка](https://setka.ru/accounts/56871)
 - :earth_americas: I speak English
 
 <!---
